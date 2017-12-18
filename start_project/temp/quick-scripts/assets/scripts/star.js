@@ -1,3 +1,9 @@
+(function() {"use strict";var __module = CC_EDITOR ? module : {exports:{}};var __filename = 'preview-scripts/assets/scripts/star.js';var __require = CC_EDITOR ? function (request) {return cc.require(request, require);} : function (request) {return cc.require(request, __filename);};function __define (exports, require, module) {"use strict";
+cc._RF.push(module, '9276cNi4l5JGrg7Ruvq9BUr', 'star', __filename);
+// scripts/star.js
+
+"use strict";
+
 // Learn cc.Class:
 //  - [Chinese] http://www.cocos.com/docs/creator/scripting/class.html
 //  - [English] http://www.cocos2d-x.org/docs/editors_and_tools/creator-chapters/scripting/class/index.html
@@ -28,14 +34,8 @@ cc.Class({
         //     }
         // },
 
-        // 主角跳跃高度
-        jumpHeight: 0,
-        // 主角跳跃持续时间
-        jumpDuration: 0,
-        // 最大移动速度
-        maxMoveSpeed: 0,
-        // 加速度
-        accel: 0,
+        // 星星和主角之间的距离小于这个数值时，就会完成收集
+        pickRadius: 0
 
     },
 
@@ -43,9 +43,22 @@ cc.Class({
 
     // onLoad () {},
 
-    start () {
+    start: function start() {}
+}
 
-    },
+// update (dt) {},
+);
 
-    // update (dt) {},
-});
+cc._RF.pop();
+        }
+        if (CC_EDITOR) {
+            __define(__module.exports, __require, __module);
+        }
+        else {
+            cc.registerModuleFunc(__filename, function () {
+                __define(__module.exports, __require, __module);
+            });
+        }
+        })();
+        //# sourceMappingURL=star.js.map
+        

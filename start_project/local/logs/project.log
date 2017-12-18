@@ -1,0 +1,54 @@
+2017-12-18T16:26:19.331Z - normal: Load ~/.CocosCreator/settings.json
+2017-12-18T16:26:19.335Z - normal: checking language setting...
+2017-12-18T16:26:19.335Z - normal: Language: zh
+2017-12-18T16:26:21.149Z - success: protocol editor-framework registered
+2017-12-18T16:26:21.150Z - success: protocol app registered
+2017-12-18T16:26:21.150Z - success: protocol theme registered
+2017-12-18T16:26:21.150Z - success: protocol packages registered
+2017-12-18T16:26:21.150Z - success: protocol unpack registerred
+2017-12-18T16:26:21.150Z - success: protocol disable-commonjs registerred
+2017-12-18T16:26:21.453Z - normal: connected!
+2017-12-18T16:26:21.461Z - normal: Check project E:\Deling\start_project
+2017-12-18T16:26:21.467Z - normal: Initializing Cocos2d
+2017-12-18T16:26:21.797Z - normal: Initializing Asset Database
+2017-12-18T16:26:21.851Z - success: protocol uuid registerred
+2017-12-18T16:26:21.851Z - success: protocol db registerred
+2017-12-18T16:26:21.852Z - success: protocol thumbnail registerred
+2017-12-18T16:26:21.852Z - normal: Loading editor/builtin packages
+2017-12-18T16:26:21.880Z - success: anysdk loaded
+2017-12-18T16:26:22.029Z - success: assets loaded
+2017-12-18T16:26:22.031Z - success: builder loaded
+2017-12-18T16:26:22.033Z - success: cocos-analytics loaded
+2017-12-18T16:26:22.037Z - success: console loaded
+2017-12-18T16:26:22.040Z - success: hierarchy loaded
+2017-12-18T16:26:22.043Z - success: inspector loaded
+2017-12-18T16:26:22.046Z - success: keystore loaded
+2017-12-18T16:26:22.049Z - success: node-library loaded
+2017-12-18T16:26:22.050Z - success: package-asset loaded
+2017-12-18T16:26:22.052Z - success: preferences loaded
+2017-12-18T16:26:22.053Z - success: project-exporter loaded
+2017-12-18T16:26:22.074Z - success: project-importer loaded
+2017-12-18T16:26:22.078Z - success: project-settings loaded
+2017-12-18T16:26:22.080Z - success: ui-kit loaded
+2017-12-18T16:26:22.082Z - success: ui-grid loaded
+2017-12-18T16:26:22.086Z - success: scene loaded
+2017-12-18T16:26:22.087Z - success: sprite-editor loaded
+2017-12-18T16:26:22.090Z - success: store loaded
+2017-12-18T16:26:22.097Z - success: timeline loaded
+2017-12-18T16:26:22.097Z - normal: Loading builtin packages
+2017-12-18T16:26:22.099Z - success: asset-db-debugger loaded
+2017-12-18T16:26:22.100Z - success: code-editor loaded
+2017-12-18T16:26:22.101Z - success: color-picker loaded
+2017-12-18T16:26:22.102Z - success: package-manager loaded
+2017-12-18T16:26:22.106Z - success: sdkbox loaded
+2017-12-18T16:26:22.113Z - success: tester loaded
+2017-12-18T16:26:22.114Z - success: ui-kit-preview-extra loaded
+2017-12-18T16:26:22.115Z - success: ui-kit-preview loaded
+2017-12-18T16:26:22.117Z - success: ui-tree loaded
+2017-12-18T16:26:23.393Z - normal: Initializing project E:\Deling\start_project
+2017-12-18T16:26:23.396Z - normal: Loading packages
+2017-12-18T16:26:23.399Z - normal: Watching packages
+2017-12-18T16:26:23.412Z - normal: Run Application
+2017-12-18T16:26:23.951Z - success: preview server running at http://localhost:7456
+2017-12-18T16:26:29.531Z - normal: 1.7.0
+2017-12-18T16:28:18.269Z - info: shutdown preview server
